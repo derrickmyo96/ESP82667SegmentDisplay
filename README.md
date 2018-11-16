@@ -1,2 +1,2 @@
 # ESP82667SegmentDisplay
-Single Digit 7 Segment Display with NodeMCU ESP8266
+Creating a Single Digit 7 Segment Display(Common Cathode) using NodeMCU ESP8266
